@@ -11,7 +11,7 @@
 
 DirSearch is a search engine for PDF documents.
 What makes it special is that it is made for searching data across any number of PDF files that reside in the same folder.
-It accepts one or more keywords and returns a list of pages with the most related content, akin Google Search or other search engines.
+It accepts one or more keywords and returns a list of pages with the most related content, akin to Google Search or other search engines.
 
 ## Getting Started
 
