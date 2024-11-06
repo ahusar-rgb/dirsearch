@@ -36,7 +36,7 @@ DirSearch is very easy to use. Move all the PDFs you want to search among in a f
 Run ```dirsearch search .```.
 This will create an index and open search menu. Enter one or more keywords divided by space. 
 You will be shown top five results, from most to least relevant. The search engine has granularity of one page.
-To search again, input an enter. To exit input ```exit``` in the search field. 
+To search again, input an enter. To exit, input ```exit``` in the search field. 
 
 In case you add, modify or delete one or more of the PDFs, you would likely want to rebuild the index.
 For that, run ```dirsearch index-rebuild .```
